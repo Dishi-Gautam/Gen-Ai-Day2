@@ -1,0 +1,7 @@
+#ignore env files
+
+.env
+
+#ignore chatbot-json
+
+chatbot-json.json
